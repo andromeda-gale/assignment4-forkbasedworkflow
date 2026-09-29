@@ -39,3 +39,14 @@ z = 1 + 3
 
 z = 4
 
+// (Below here, added via git)
+
+Where x = 2; y = -6, find z.
+
+z = |x| - |y|
+
+z = |2| - |-6|
+
+z = 2 - 6
+
+z = -4
